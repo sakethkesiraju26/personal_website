@@ -96,27 +96,6 @@ const essays = [
       </>
     ),
   },
-  {
-    id: "design-philosophy",
-    title: "Design Philosophy",
-    date: "May 29, 2022",
-    content: (
-      <>
-        <div className="flex justify-center mb-8">
-          <img src="/design-philosophy-meme.png" alt="Design Philosophy Meme" className="max-w-full h-auto rounded" />
-        </div>
-        <p className="mb-4">This is obviously hyperbolic, however, I think the point stands. Product design in big tech is obsessed with having every minute feature be backed by user surveys, data, and heat maps. It dampens innovation, as by relying overly on user surveys and data the product becomes the mean of your user expectation. It curbs true innovation. Greatness is dictatorial, it is one or a few men’s vision, it is not democratized.</p>
-        <p className="mb-4">Also using these UX case study templates creates a self-constraint on your own development as a designer, as by trying to fit these cookie-cutter medium posts that some Facebook employee wrote, you’re not truly innovating and stepping outside of the box. Would the IOS 7, the most influential design OS in the last 10 years been designed the way it was if someone used the traditional UX process, I’d argue not.</p>
-        <p className="mb-4">The irony of this process is that 95% of your users in your user surveys are responding as the far left individual in the meme above and they should. Your regular user cares only cares if:</p>
-        <ol className="mb-4 list-decimal list-inside">
-          <li>The app is pretty/looks cool</li>
-          <li>The app does what it is supposed to do and they can go through all the flows intuitively</li>
-        </ol>
-        <p className="mb-4">That is it.</p>
-        <p className="mb-4">Many designers say that they design with “empathy” and then use a heatmap for the placement of a button in their app. That’s not designing with empathy that’s letting the users design for you. I’m not telling you to ignore your users as obviously your product and its success is dependent on their satisfaction, however, don’t let them make the design decisions for you. You as the designer are accountable and should want to be responsible for the designs you make. Take control and create products that carry your own voice.</p>
-      </>
-    ),
-  },
 ];
 
 export default function Writing() {

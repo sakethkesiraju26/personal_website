@@ -5,7 +5,6 @@ export default function Home() {
     <div className="w-full min-h-screen flex bg-white text-black font-sans">
       {/* Sidebar Navigation */}
       <aside className="hidden md:flex flex-col w-64 min-h-screen px-8 py-12 bg-white text-sm border-r border-gray-200 sticky top-0 h-screen">
-        <div className="font-bold mb-8 tracking-wide text-xs uppercase text-gray-700">Navigation</div>
         <nav className="flex flex-col gap-2 mb-10">
           <a href="#" className="font-medium text-black hover:underline">Home</a>
           <a href="/writing" className="text-gray-500 hover:underline">Writing</a>
@@ -21,8 +20,10 @@ export default function Home() {
       </aside>
       {/* Main Content */}
       <main className="flex-1 w-full max-w-3xl mx-auto px-6 py-16 text-left">
-        <h1 className="font-bold text-3xl mb-4">hey, i’m saketh kesiraju</h1>
-        <p className="text-lg mb-6">building tools for empowering individual agency</p>
+        <h1 className="font-bold text-4xl mb-2 font-serif text-black/90 tracking-tight leading-tight" style={{ fontFamily: 'var(--font-playfair), serif' }}>
+          saketh kesiraju
+        </h1>
+        <p className="text-lg mb-4">building tools for empowering individual agency</p>
         <ul className="list-disc list-inside space-y-3 text-base mb-8">
           <li>based in nyc. hobbies: photojournalism and playing poker. some of my fav people include: kanye west, quentin tarantino, maison margiela, dieter rams, marco pierre white and masayoshi son.</li>
           <li className="mt-0">founded <a href="https://www.tryswiftlaw.com" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">SwiftLaw</a> and <a href="https://www.carbonpaper.ai" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">CarbonPaper</a> → started as flat-fee fund formation service, pivoted to AI drafting copilot used by 15+ law firms; bootstrapped to mid–5 figs ARR in 3 months</li>

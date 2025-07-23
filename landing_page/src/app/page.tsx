@@ -30,7 +30,7 @@ export default function Home() {
           <li>visiting researcher at <a href="https://www.youtube.com/watch?v=qdljfmv_tcw&t=1687s" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">Stanford CodeX</a>, advised by Roland Vogl; presented research and prototypes on legal decision modeling with LLMs</li>
           <li>built <a href="https://www.augier.xyz/" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">Augier AI Labs</a> → recruited researchers 5–7 years senior who are now YC founders, signed $500K contract, shipped tools for eviction defense + litigation prediction</li>
           <li>
-            founded NYU EEG's Entrepreneurs in Residence program. helped the best NYU startups launch and fundraise with 10 weeks of programming from General Catalyst, a16z, and top operators in AI.
+            founded NYU EEG&apos;s Entrepreneurs in Residence program. helped the best NYU startups launch and fundraise with 10 weeks of programming from General Catalyst, a16z, and top operators in AI.
             <details className="ml-4 mt-2">
               <summary className="cursor-pointer font-semibold text-gray-800">portfolio companies</summary>
               <ul className="list-disc list-inside ml-4 mt-2 space-y-1">

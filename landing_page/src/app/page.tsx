@@ -21,7 +21,7 @@ export default function Home() {
       {/* Main Content */}
       <main className="flex-1 w-full max-w-3xl mx-auto px-6 py-16 text-left">
         <h1 className="font-bold text-4xl mb-2 font-serif text-black/90 tracking-tight leading-tight" style={{ fontFamily: 'var(--font-playfair), serif' }}>
-          saketh kesiraju
+          Saketh Kesiraju
         </h1>
         <p className="text-lg mb-4">building tools for empowering individual agency</p>
         <ul className="list-disc list-inside space-y-3 text-base mb-8">

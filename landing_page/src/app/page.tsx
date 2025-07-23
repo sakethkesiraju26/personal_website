@@ -43,7 +43,7 @@ export default function Home() {
               </ul>
             </details>
           </li>
-          <li>prev. founded <a href="https://www.notion.so/augierart/Augier-f320ff83c6eb4646994d66a854185364?source=copy_link" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">art tech startup</a> backed by Sotheby’s execs, built 3D sites for <a href="https://www.muse.place/gallardo" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">A$AP Rocky’s creative director</a>, founding designer at <a href="https://vienna.earth/plate/Saketh/intellectual%20tech%20bro%20bookshelf%20but%20it%20gets%20more%20and%20more%20online" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">Vienna Hypertext</a> (now Aqua Voice, YC W24), turned down $250K total in VC for lack of the right cofounders</li>
+          <li>prev. founded <a href="https://www.notion.so/augierart/Augier-f320ff83c6eb4646994d66a854185364?source=copy_link" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">art tech startup</a> backed by Sotheby’s execs, built 3D sites for <a href="https://www.muse.place/gallardo" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">A$AP Rocky’s creative director</a>, founding designer at <a href="https://vienna.earth/meta" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">Vienna Earth</a> (now Aqua Voice, YC W24), turned down $250K total in VC for lack of the right cofounders</li>
         </ul>
       </main>
     </div>

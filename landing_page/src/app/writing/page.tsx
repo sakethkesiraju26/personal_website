@@ -4,7 +4,7 @@ const essays = [
   {
     id: "customer-experience",
     title: "The customer experience >>> everything else",
-    date: "April 12, 2023",
+    date: "April 12, 2024",
     content: (
       <>
         <p className="mb-4">Most startups assume superior technology creates lasting advantage. It doesn’t. As AI becomes commoditized, technical differentiation is fleeting. The companies that will fail build AI on legacy workflows, only making internal processes faster while leaving customer experience unchanged. <strong>They digitize pain instead of removing it.</strong></p>
@@ -72,25 +72,25 @@ const essays = [
     date: "Nov 15, 2020",
     content: (
       <>
-        <h3 className="text-xl font-bold mt-8 mb-4 font-serif">I. Introduction: The Battlefield of Love</h3>
+        <h3 className="font-semibold mt-6 mb-2 text-lg">I. Introduction: The Battlefield of Love</h3>
         <blockquote className="border-l-4 border-gray-300 pl-4 italic text-gray-700 mb-4">
           Jean-Paul Sartre believed that human relationships are inherently conflictual. In his existentialist framework, love isn't a peaceful union but a battlefield of competing freedoms. He writes, "While I attempt to free myself from the hold of the Other, the Other is trying to free himself from mine; while I seek to enslave the Other, the Other seeks to enslave me... Conflict is the original meaning of being-for-others" (Sartre 364).
         </blockquote>
         <p className="mb-4">Sartre sees love as a paradox: we desire to be the center of the beloved's world, but doing so means reducing their freedom. In turn, we become vulnerable to their gaze, their judgment, their withdrawal. This back-and-forth produces the insecurity that defines romantic relationships. Love, then, is not harmony—it is a constant negotiation of value and importance.</p>
-        <h3 className="text-xl font-bold mt-8 mb-4 font-serif">II. Attraction and the Imbalance of Value</h3>
+        <h3 className="font-semibold mt-6 mb-2 text-lg">II. Attraction and the Imbalance of Value</h3>
         <p className="mb-4">I agree with Sartre that relationships begin and are often sustained through a fundamental imbalance of perceived value. When we desire someone, it is often because they withhold the validation we crave. Their lack of immediate affirmation highlights the gap between how we see ourselves and how they see us. This gap creates insecurity, and attraction.</p>
         <p className="mb-4">Experience and self-esteem play a major role in this dynamic. A person with high self-worth is less likely to be swayed by surface-level flattery because they don't need external validation. What interests them instead is someone who isn't immediately trying to impress them, someone who treats them as an equal or even ignores their conventional appeal. This interaction creates an imbalance they are unaccustomed to, which draws them in.</p>
         <p className="mb-4">Conversely, someone with low self-esteem, especially if they rarely receive attention, will respond positively to any validation. Their need for affirmation makes them more susceptible to romantic interest, even from those with little genuine value to offer. In both cases, attraction stems from a perceived asymmetry in social or emotional capital, and the desire to close that gap.</p>
-        <h3 className="text-xl font-bold mt-8 mb-4 font-serif">III. The Validator and the Validatee</h3>
+        <h3 className="font-semibold mt-6 mb-2 text-lg">III. The Validator and the Validatee</h3>
         <p className="mb-4">This leads to what I call the "validator/validatee dynamic." The validator is the more secure partner, independent, self-assured, emotionally detached. The validatee is insecure, codependent, and anchored in the relationship for self-worth. Sartre would describe this as an enslavement of freedom, but I believe many validatees welcome this dependency. To them, it is a relief. In the validator's world, they are finally seen as important.</p>
         <p className="mb-4">This dynamic can persist because the validatee becomes addicted to the feeling of being valued. Even when validation is withdrawn, they cling to the person who once gave them a sense of worth they couldn’t generate themselves. These relationships often appear toxic from the outside but feel deeply meaningful to the validatee.</p>
-        <h3 className="text-xl font-bold mt-8 mb-4 font-serif">IV. Power and the Personal</h3>
+        <h3 className="font-semibold mt-6 mb-2 text-lg">IV. Power and the Personal</h3>
         <p className="mb-4">Sartre emphasizes "the look"—the way we feel objectified under someone else's gaze. I agree that our perception is shaped by others, but I argue that deeper relational dynamics are built not on objectification but humanization. We don't manipulate people as abstract others; we manipulate them by learning their stories, their insecurities, their hopes. The more we know, the more leverage we have.</p>
         <p className="mb-4">For example, if someone is deeply insecure about their skin, a well-timed compliment feels transcendent. If a person is ostracized for being promiscuous, reframing that trait as "liberated" or "fun-loving" can make them feel uniquely seen and understood. This kind of validation transforms us in the eyes of the other, and makes the giver of that validation feel powerful.</p>
-        <h3 className="text-xl font-bold mt-8 mb-4 font-serif">V. Why Love Fails (and Sometimes Doesn’t)</h3>
+        <h3 className="font-semibold mt-6 mb-2 text-lg">V. Why Love Fails (and Sometimes Doesn't)</h3>
         <p className="mb-4">Sartre believes love ultimately fails because it curbs freedom. I agree, but with nuance. Relationships between people with balanced self-worth often collapse due to constant power struggles. Without a clear validator and validatee, both partners vie for control, affirmation, and centrality in each other's lives. The result is friction and emotional volatility.</p>
-        <p className="mb-4">By contrast, love can endure when one partner fully submits to the other’s emotional hierarchy. The relationship is stable because roles are fixed, but it is not necessarily healthy. The validatee may lose their autonomy, but in return, they gain identity and meaning. These relationships, while imbalanced, often last the longest.</p>
-        <h3 className="text-xl font-bold mt-8 mb-4 font-serif">VI. Conclusion: Sartre and the Selfishness of Love</h3>
+        <p className="mb-4">By contrast, love can endure when one partner fully submits to the other's emotional hierarchy. The relationship is stable because roles are fixed, but it is not necessarily healthy. The validatee may lose their autonomy, but in return, they gain identity and meaning. These relationships, while imbalanced, often last the longest.</p>
+        <h3 className="font-semibold mt-6 mb-2 text-lg">VI. Conclusion: Sartre and the Selfishness of Love</h3>
         <p className="mb-4">Sartre helps us see love not as a fairytale, but as a war of perception. We love not just to connect, but to be important. I take this further: we love to be central. We humanize others only to better influence them. We exploit their vulnerabilities not always with malice, but with a selfish need to be needed.</p>
         <p className="mb-4">Love is less about union than it is about hierarchy, a structure of validation, power, and self-worth. Sartre didn’t account for how deeply this structure is shaped by our inner narratives and emotional wounds. But he was right that love is not freedom. Love, in its rawest form, is a beautiful form of control, one that rarely works unless someone gives up first.</p>
       </>
